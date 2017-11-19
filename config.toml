@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Wang's Foot & Body Massage"
+theme = "ananke"
+
+[menu]
+   [[menu.main]]
+    name="Services"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "services"
+    url = "/services/"
+   [[menu.main]]
+    name = "Our Staff"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -100
+    identifier = "our staff"
+    url = "/ourstaff/"
+  [[menu.main]]
+    name = "Contact Info"
+    pre = "<i class='fa fa-heart'></i>"
+    identifier = "contact info"
+    url = "/contact/"
