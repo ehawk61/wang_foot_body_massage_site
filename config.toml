@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Wang's Foot & Body Massage"
+title = "Wangs Foot & Body Massage"
 theme = "ananke"
 
 [menu]
@@ -16,8 +16,3 @@ theme = "ananke"
     weight = -100
     identifier = "our staff"
     url = "/ourstaff/"
-  [[menu.main]]
-    name = "Contact Info"
-    pre = "<i class='fa fa-heart'></i>"
-    identifier = "contact info"
-    url = "/contact/"
