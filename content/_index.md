@@ -1,6 +1,6 @@
 ---
 title: "Wangs Body & Feet Massage"
-featured_image: '/images/cherry-tree.jpeg'
+featured_image: '/images/cherry-tree.jpg'
 description: "Kennesaw's Finest Massage"
 ---
 Wang's Body and Feet Massage offers an amazing variety of massages in order help you relax your body and calm your mind. You leave feeling refreshed and relaxed. 

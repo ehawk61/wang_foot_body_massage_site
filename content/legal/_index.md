@@ -1,7 +1,7 @@
 ---
 title: "Legal"
 description: "Giving proper credit to the projects that made this site possible"
-featured_image: '/images/cherry-tree.jpeg'
+featured_image: '/images/cherry-tree.jpg'
 ---
 Item | Product Used | Owner/License | Link
 --------------------|----------------------------|-----------|-------- 

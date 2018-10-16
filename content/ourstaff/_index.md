@@ -1,7 +1,7 @@
 ---
 title: "Our Staff"
 description: "Meet our wonderful staff"
-featured_image: '/images/cherry-tree.jpeg'
+featured_image: '/images/cherry-tree.jpg'
 ---
 {{<figure src="/images/jason_wang.png" class="left">}}
 **Jason Wang** 
