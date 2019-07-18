@@ -3,6 +3,8 @@ title: "Our Staff"
 description: "Meet our wonderful staff"
 featured_image: '/images/cherry-tree.jpg'
 ---
+<link rel="stylesheet" type="text/css" href="/css/theme.css"/>
+
 {{<figure src="/images/jason_wang.png" class="left">}}
 **Jason Wang** 
 _Manager_ 
@@ -13,5 +15,5 @@ Jason is originally from Changchun, China and manages Wangs Body & Feet Massage.
 **Jonathan Meek**
 _Web Presence Manager_
  
-Jonathan developed the website you're viewing right now. He's a graduate of Southern Polytechnic State University. He works full-time as a developer with AT&T but does web setup from time to time.  
+Jonathan is a graduate of Southern Polytechnic State University. He works as a developer for The Home Depot.  
 
