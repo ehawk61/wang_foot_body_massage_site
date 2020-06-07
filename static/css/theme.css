@@ -28,10 +28,19 @@
 
   .table-left{
     text-align: left;
+    padding-bottom: 0.5em;
+    padding-right: 0.5em;
   }
 
   .roundedBox{
     border-radius: 25px;
     background-color: white;
-    margin: 0.5em;
+    padding: 1.0em;
+    margin: 1.0em;
+  }
+  
+  table.center{
+    margin-left: auto; 
+    margin-right: auto; 
+    
   }
