@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-baseURL = "http://kennesawmassage.services"
-=======
 baseURL = "https://kennesawmassage.services"
->>>>>>> 340d994672ba74b6b9e77e3eb4d9fd17e2b045c9
 languageCode = "en-us"
 title = "Wangs Body & Feet Massage"
 theme = "ananke"
