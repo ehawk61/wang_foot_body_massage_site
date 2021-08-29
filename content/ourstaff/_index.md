@@ -15,5 +15,5 @@ Jason is originally from Changchun, China and manages Wangs Body & Feet Massage.
 **Jonathan Meek**
 _Web Presence Manager_
  
-Jonathan is a graduate of Southern Polytechnic State University. He works as a developer for The Home Depot.  
+Jonathan is a graduate of Southern Polytechnic State University. He works as a developer for Hylaine.  
 
